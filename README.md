@@ -1,1 +1,1 @@
-![Screenshot](https://disk.yandex.ru/i/LKZtQbzjC5dsvA)
+![Screenshot](https://4.downloader.disk.yandex.ru/preview/b03b6b2404ecf33472a8d8419d5f2eba1c37e75d3fbb4627d332f3f62bf5ca58/inf/vH0n-ZyDO3fEUeNXrxx48U4dbuFYs-hGUNrrP0WweG6lBqiiABmfBubaAhTMhxGFb20tX8ZJIeZ52fUlmEroSw%3D%3D?uid=11680079&filename=Docker.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=11680079&tknv=v3&size=1920x893A)
