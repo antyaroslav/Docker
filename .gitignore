@@ -4,7 +4,6 @@ HELP.md
 .gradle
 build/
 data/
-Docker.png
 
 ### STS ###
 .apt_generated
